@@ -1,0 +1,1327 @@
+2024-05-08 09:05:58.394 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-05-08 09:05:58.507 +05:30 [INF] Now listening on: https://localhost:7005
+2024-05-08 09:05:58.510 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 09:05:58.512 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 09:05:58.513 +05:30 [INF] Hosting environment: Development
+2024-05-08 09:05:58.514 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 09:06:30.687 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-05-08 09:06:30.799 +05:30 [INF] Now listening on: https://localhost:7005
+2024-05-08 09:06:30.802 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 09:06:30.803 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 09:06:30.804 +05:30 [INF] Hosting environment: Development
+2024-05-08 09:06:30.805 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 09:07:10.232 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 09:07:10.266 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 09:07:10.267 +05:30 [INF] Hosting environment: Development
+2024-05-08 09:07:10.268 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 09:07:13.782 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 09:07:14.306 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 530.3426ms
+2024-05-08 09:07:14.312 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 09:07:14.318 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.4938ms
+2024-05-08 09:07:14.318 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 09:07:14.367 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 49.1167ms
+2024-05-08 09:07:14.545 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 09:07:14.647 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 102.7275ms
+2024-05-08 09:23:18.863 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 09:23:18.893 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 09:23:18.895 +05:30 [INF] Hosting environment: Development
+2024-05-08 09:23:18.895 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 09:23:22.719 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 09:23:23.398 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 687.2736ms
+2024-05-08 09:23:23.403 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 09:23:23.409 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.432ms
+2024-05-08 09:23:23.415 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 09:23:23.460 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 44.0802ms
+2024-05-08 09:23:23.533 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 09:23:23.624 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 91.4675ms
+2024-05-08 09:24:17.175 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 09:24:17.217 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 09:24:17.218 +05:30 [INF] Hosting environment: Development
+2024-05-08 09:24:17.219 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 09:24:18.241 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 09:24:18.919 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 682.388ms
+2024-05-08 09:24:18.928 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 09:24:18.931 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 09:24:18.935 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.8389ms
+2024-05-08 09:24:18.974 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 43.0554ms
+2024-05-08 09:24:19.056 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 09:24:19.136 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 80.2635ms
+2024-05-08 09:26:58.007 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/Email Verification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 09:26:58.014 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 09:26:58.017 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 09:26:58.032 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 09:27:02.143 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 09:27:02.157 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 4116.0681ms
+2024-05-08 09:27:02.158 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 09:27:02.160 +05:30 [INF] HTTP POST /api/Registration/Email Verification responded 200 in 4146.7056 ms
+2024-05-08 09:27:02.161 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/Email Verification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 4154.7669ms
+2024-05-08 12:05:12.575 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 12:05:12.679 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 119.697ms
+2024-05-08 12:05:12.709 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 12:05:12.709 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 12:05:12.741 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 31.2934ms
+2024-05-08 12:05:12.803 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 93.1479ms
+2024-05-08 12:05:13.203 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 12:05:13.227 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 23.909ms
+2024-05-08 12:05:13.227 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/favicon-32x32.png - null null
+2024-05-08 12:05:13.247 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-08 12:05:13.248 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/favicon-32x32.png - 200 628 image/png 20.6225ms
+2024-05-08 14:15:50.715 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 14:15:50.752 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 14:15:50.755 +05:30 [INF] Hosting environment: Development
+2024-05-08 14:15:50.756 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 14:15:54.514 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 14:15:55.175 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 668.9528ms
+2024-05-08 14:15:55.183 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 14:15:55.187 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 14:15:55.190 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.9657ms
+2024-05-08 14:15:55.242 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 54.9453ms
+2024-05-08 14:15:55.456 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 14:15:55.541 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 85.4759ms
+2024-05-08 14:18:11.684 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 14:18:11.694 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 14:18:11.696 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 14:18:11.710 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 14:18:14.106 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 14:18:14.120 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 2398.9694ms
+2024-05-08 14:18:14.121 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 14:18:14.123 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 2430.0781 ms
+2024-05-08 14:18:14.124 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 2440.5229ms
+2024-05-08 14:19:21.825 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 14:19:21.858 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 14:19:21.861 +05:30 [INF] Hosting environment: Development
+2024-05-08 14:19:21.863 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 14:19:22.811 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 14:19:23.386 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 582.119ms
+2024-05-08 14:19:23.393 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 14:19:23.394 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 14:19:23.401 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 7.8046ms
+2024-05-08 14:19:23.440 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.0805ms
+2024-05-08 14:19:23.498 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 14:19:23.580 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 82.3128ms
+2024-05-08 14:19:57.590 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 14:19:57.596 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 14:19:57.601 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 14:19:57.615 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 14:20:00.905 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 14:20:00.913 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3293.084ms
+2024-05-08 14:20:00.915 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 14:20:00.917 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3321.9244 ms
+2024-05-08 14:20:00.918 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3328.4446ms
+2024-05-08 14:37:17.143 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 14:37:17.176 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 14:37:17.179 +05:30 [INF] Hosting environment: Development
+2024-05-08 14:37:17.179 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 14:37:20.982 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 14:37:21.650 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 676.7122ms
+2024-05-08 14:37:21.658 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 14:37:21.658 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 14:37:21.668 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 9.2913ms
+2024-05-08 14:37:21.697 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.1723ms
+2024-05-08 14:37:21.755 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 14:37:21.850 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 94.694ms
+2024-05-08 14:37:52.266 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=337838 - null null
+2024-05-08 14:37:52.282 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 14:37:52.285 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 14:37:52.299 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 14:37:52.490 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 14:37:52.495 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 190.2962ms
+2024-05-08 14:37:52.497 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 14:37:52.498 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 217.8433 ms
+2024-05-08 14:37:52.500 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=337838 - 400 null text/plain; charset=utf-8 235.5061ms
+2024-05-08 14:38:05.653 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 14:38:05.658 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 14:38:05.660 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 14:38:08.896 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 14:38:08.910 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3248.1754ms
+2024-05-08 14:38:08.913 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 14:38:08.915 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3256.8034 ms
+2024-05-08 14:38:08.916 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3263.5333ms
+2024-05-08 14:38:48.044 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=676008 - null null
+2024-05-08 14:38:48.050 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 14:38:48.051 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 14:38:48.056 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 14:38:48.057 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 5.0151ms
+2024-05-08 14:38:48.059 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 14:38:48.060 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 9.7217 ms
+2024-05-08 14:38:48.063 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=676008 - 400 null text/plain; charset=utf-8 18.6712ms
+2024-05-08 14:39:40.014 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan28092001%40gmail.com - null 0
+2024-05-08 14:39:40.025 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 14:39:40.027 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 14:39:43.020 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 14:39:43.022 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 2993.9136ms
+2024-05-08 14:39:43.028 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 14:39:43.031 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3005.9437 ms
+2024-05-08 14:39:43.033 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan28092001%40gmail.com - 200 null application/json; charset=utf-8 3019.0942ms
+2024-05-08 14:40:07.063 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=967595 - null null
+2024-05-08 14:40:07.072 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 14:40:07.072 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 14:40:07.077 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 14:40:07.079 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 3.5684ms
+2024-05-08 14:40:07.085 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 14:40:07.086 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 14.2311 ms
+2024-05-08 14:40:07.087 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=967595 - 400 null text/plain; charset=utf-8 24.383ms
+2024-05-08 14:40:12.457 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 14:40:12.478 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 21.0156ms
+2024-05-08 14:40:12.489 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 14:40:12.490 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 14:40:12.492 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 2.3774ms
+2024-05-08 14:40:12.513 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 23.4816ms
+2024-05-08 14:40:12.593 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 14:40:12.606 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.7271ms
+2024-05-08 14:40:22.642 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=967595 - null null
+2024-05-08 14:40:22.648 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 14:40:22.649 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 14:40:22.653 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 14:40:22.655 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 4.2203ms
+2024-05-08 14:40:22.656 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 14:40:22.657 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 9.4032 ms
+2024-05-08 14:40:22.658 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=967595 - 400 null text/plain; charset=utf-8 16.6335ms
+2024-05-08 14:58:52.867 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 14:58:52.900 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 14:58:52.902 +05:30 [INF] Hosting environment: Development
+2024-05-08 14:58:52.902 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 14:58:53.961 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 14:58:54.549 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 594.8464ms
+2024-05-08 14:58:54.561 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 14:58:54.563 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 14:58:54.567 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.5841ms
+2024-05-08 14:58:54.597 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.7655ms
+2024-05-08 14:58:54.649 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 14:58:54.736 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 87.1943ms
+2024-05-08 14:59:07.243 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan28092001%40gmail.com - null 0
+2024-05-08 14:59:07.252 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 14:59:07.255 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 14:59:07.270 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 14:59:09.280 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 14:59:09.288 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 2013.8252ms
+2024-05-08 14:59:09.289 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 14:59:09.290 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 2039.2802 ms
+2024-05-08 14:59:09.291 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan28092001%40gmail.com - 200 null application/json; charset=utf-8 2048.413ms
+2024-05-08 14:59:37.471 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=785499 - null null
+2024-05-08 14:59:37.480 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 14:59:37.482 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 14:59:37.488 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 14:59:37.489 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 5.0964ms
+2024-05-08 14:59:37.490 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 14:59:37.491 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 10.5995 ms
+2024-05-08 14:59:37.492 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=785499 - 400 null text/plain; charset=utf-8 20.5434ms
+2024-05-08 15:00:30.482 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 15:00:30.525 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 15:00:30.526 +05:30 [INF] Hosting environment: Development
+2024-05-08 15:00:30.527 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 15:00:31.766 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 15:00:32.167 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 410.5022ms
+2024-05-08 15:00:32.173 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 15:00:32.176 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 15:00:32.183 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.9826ms
+2024-05-08 15:00:32.220 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.4048ms
+2024-05-08 15:00:32.282 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 15:00:32.368 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 86.4208ms
+2024-05-08 15:02:12.223 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 15:02:12.258 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 15:02:12.260 +05:30 [INF] Hosting environment: Development
+2024-05-08 15:02:12.261 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 15:02:13.354 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 15:02:13.899 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 554.4507ms
+2024-05-08 15:02:13.904 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 15:02:13.905 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 15:02:13.909 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.782ms
+2024-05-08 15:02:13.954 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 49.007ms
+2024-05-08 15:02:14.027 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 15:02:14.118 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 91.3028ms
+2024-05-08 15:02:53.234 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan28092001%40gmail.com - null 0
+2024-05-08 15:02:53.241 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 15:02:53.244 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 15:02:53.259 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:02:56.736 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 15:02:56.743 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3480.5663ms
+2024-05-08 15:02:56.745 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 15:02:56.747 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3506.9649 ms
+2024-05-08 15:02:56.749 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan28092001%40gmail.com - 200 null application/json; charset=utf-8 3514.8179ms
+2024-05-08 15:03:30.133 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=615502 - null null
+2024-05-08 15:03:30.138 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:03:30.142 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:03:30.146 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 15:03:30.147 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 4.145ms
+2024-05-08 15:03:30.149 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:03:30.150 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 11.7509 ms
+2024-05-08 15:03:30.152 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=615502 - 400 null text/plain; charset=utf-8 19.2531ms
+2024-05-08 15:03:44.724 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=785499 - null null
+2024-05-08 15:03:44.728 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:03:44.729 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:03:44.734 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 15:03:44.735 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 4.8852ms
+2024-05-08 15:03:44.737 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:03:44.739 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 11.3468 ms
+2024-05-08 15:03:44.741 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=785499 - 400 null text/plain; charset=utf-8 16.3105ms
+2024-05-08 15:04:47.747 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=615502 - null null
+2024-05-08 15:04:47.753 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:04:47.756 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:04:47.759 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 15:04:47.760 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 2.1909ms
+2024-05-08 15:04:47.760 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:04:47.762 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 8.2876 ms
+2024-05-08 15:04:47.767 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=615502 - 400 null text/plain; charset=utf-8 20.8825ms
+2024-05-08 15:11:09.372 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 15:11:09.406 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 15:11:09.408 +05:30 [INF] Hosting environment: Development
+2024-05-08 15:11:09.409 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 15:11:13.260 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 15:11:13.818 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 562.2155ms
+2024-05-08 15:11:13.823 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 15:11:13.825 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 15:11:13.828 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.1781ms
+2024-05-08 15:11:13.873 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.485ms
+2024-05-08 15:11:13.932 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 15:11:14.018 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 85.2949ms
+2024-05-08 15:11:31.711 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan28092001%40gmail.com - null 0
+2024-05-08 15:11:31.720 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 15:11:31.723 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 15:11:31.741 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:11:35.113 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 15:11:35.124 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3378.6618ms
+2024-05-08 15:11:35.125 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 15:11:35.126 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3406.9334 ms
+2024-05-08 15:11:35.128 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan28092001%40gmail.com - 200 null application/json; charset=utf-8 3417.4555ms
+2024-05-08 15:11:59.585 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=534304 - null null
+2024-05-08 15:11:59.593 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:11:59.595 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:11:59.599 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 15:11:59.600 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 3.9821ms
+2024-05-08 15:11:59.602 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:11:59.602 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 9.7453 ms
+2024-05-08 15:11:59.604 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=534304 - 400 null text/plain; charset=utf-8 19.0947ms
+2024-05-08 15:16:53.768 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 15:16:53.786 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 17.7613ms
+2024-05-08 15:16:53.801 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 15:16:53.802 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 15:16:53.804 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 2.3445ms
+2024-05-08 15:16:53.818 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.9673ms
+2024-05-08 15:16:53.929 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 15:16:53.939 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 10.5864ms
+2024-05-08 15:17:39.157 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=arunsrinivasan333%40gmail.com - null 0
+2024-05-08 15:17:39.162 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 15:17:39.163 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:17:42.532 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 15:17:42.534 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3369.3436ms
+2024-05-08 15:17:42.535 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 15:17:42.536 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3373.8582 ms
+2024-05-08 15:17:42.537 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=arunsrinivasan333%40gmail.com - 200 null application/json; charset=utf-8 3382.0287ms
+2024-05-08 15:18:19.439 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=arunsrinivasan333%40gmail.com&userOTP=038908 - null null
+2024-05-08 15:18:19.443 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:18:19.444 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:18:19.446 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 15:18:19.448 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 3.2879ms
+2024-05-08 15:18:19.449 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:18:19.450 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 7.3775 ms
+2024-05-08 15:18:19.451 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=arunsrinivasan333%40gmail.com&userOTP=038908 - 400 null text/plain; charset=utf-8 12.2424ms
+2024-05-08 15:21:06.996 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 15:21:07.037 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 15:21:07.038 +05:30 [INF] Hosting environment: Development
+2024-05-08 15:21:07.039 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 15:21:10.819 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 15:21:11.309 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 496.1177ms
+2024-05-08 15:21:11.557 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 15:21:11.562 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 15:21:11.566 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 9.3985ms
+2024-05-08 15:21:11.690 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 128.1876ms
+2024-05-08 15:21:11.781 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 15:21:11.872 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 91.1909ms
+2024-05-08 15:21:40.177 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=arunsrinivasan333%40gmail.com&userOTP=038908 - null null
+2024-05-08 15:21:40.191 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 15:21:40.195 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:21:40.212 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:21:40.374 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 15:21:40.378 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 161.7295ms
+2024-05-08 15:21:40.379 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:21:40.381 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 190.5203 ms
+2024-05-08 15:21:40.382 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=arunsrinivasan333%40gmail.com&userOTP=038908 - 400 null text/plain; charset=utf-8 204.9865ms
+2024-05-08 15:24:56.213 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=arunsrinivasan333%40gmail.com&userOTP=038908 - null null
+2024-05-08 15:24:56.226 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:24:56.227 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:24:56.243 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 15:24:56.245 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 14.4987ms
+2024-05-08 15:24:56.249 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:24:56.253 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 27.4842 ms
+2024-05-08 15:24:56.256 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=arunsrinivasan333%40gmail.com&userOTP=038908 - 400 null text/plain; charset=utf-8 44.0322ms
+2024-05-08 15:31:28.002 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 15:31:28.119 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 15:31:28.144 +05:30 [INF] Hosting environment: Development
+2024-05-08 15:31:28.158 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 15:31:30.039 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 15:31:31.280 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1250.0695ms
+2024-05-08 15:31:31.290 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 15:31:31.293 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 15:31:31.301 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 10.8206ms
+2024-05-08 15:31:31.360 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 66.623ms
+2024-05-08 15:31:31.450 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 15:31:31.599 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 148.8149ms
+2024-05-08 15:32:24.369 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=smano4570%40gmail.com - null 0
+2024-05-08 15:32:24.387 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 15:32:24.393 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 15:32:24.417 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:32:28.768 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 15:32:28.804 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 4373.8286ms
+2024-05-08 15:32:28.813 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 15:32:28.826 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 4436.5605 ms
+2024-05-08 15:32:28.838 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=smano4570%40gmail.com - 200 null application/json; charset=utf-8 4469.1124ms
+2024-05-08 15:33:29.281 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=smano4570%40gmail.com&userOTP=179934 - null null
+2024-05-08 15:33:29.309 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:33:29.315 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:33:29.335 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 15:33:29.338 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 17.5333ms
+2024-05-08 15:33:29.341 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:33:29.343 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 33.7708 ms
+2024-05-08 15:33:29.345 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=smano4570%40gmail.com&userOTP=179934 - 400 null text/plain; charset=utf-8 63.1655ms
+2024-05-08 15:33:41.816 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 15:33:41.855 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 38.7805ms
+2024-05-08 15:33:41.886 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 15:33:41.887 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 15:33:41.899 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 12.5947ms
+2024-05-08 15:33:41.946 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 59.0394ms
+2024-05-08 15:33:41.982 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 15:33:41.991 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.2184ms
+2024-05-08 15:34:03.467 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=smano4570%40gmail.com&userOTP=179934 - null null
+2024-05-08 15:34:03.494 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:34:03.501 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:34:03.526 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 15:34:03.533 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 21.3577ms
+2024-05-08 15:34:03.540 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:34:03.543 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 48.9294 ms
+2024-05-08 15:34:03.545 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=smano4570%40gmail.com&userOTP=179934 - 400 null text/plain; charset=utf-8 78.4943ms
+2024-05-08 15:39:14.006 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 15:39:14.059 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 15:39:14.062 +05:30 [INF] Hosting environment: Development
+2024-05-08 15:39:14.065 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 15:39:18.457 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 15:39:19.638 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1186.3425ms
+2024-05-08 15:39:19.647 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 15:39:19.651 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 15:39:19.657 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 10.315ms
+2024-05-08 15:39:19.713 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 62.254ms
+2024-05-08 15:39:19.815 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 15:39:19.966 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 150.5033ms
+2024-05-08 15:40:28.225 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 15:40:28.240 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 15:40:28.245 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 15:40:28.270 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:40:31.896 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 15:40:31.909 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3631.0931ms
+2024-05-08 15:40:31.913 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 15:40:31.917 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3679.8209 ms
+2024-05-08 15:40:31.919 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3696.9912ms
+2024-05-08 15:41:07.697 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=440591 - null null
+2024-05-08 15:41:07.711 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:41:07.715 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 15:41:07.723 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 15:41:07.726 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 7.7168ms
+2024-05-08 15:41:07.727 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 15:41:07.729 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 17.1236 ms
+2024-05-08 15:41:07.730 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=440591 - 400 null text/plain; charset=utf-8 32.9692ms
+2024-05-08 15:59:42.304 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 15:59:42.358 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 15:59:42.361 +05:30 [INF] Hosting environment: Development
+2024-05-08 15:59:42.362 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 15:59:45.536 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 15:59:46.311 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 781.0358ms
+2024-05-08 15:59:46.328 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 15:59:46.339 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 15:59:46.343 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 14.775ms
+2024-05-08 15:59:46.473 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 133.4122ms
+2024-05-08 15:59:46.560 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 15:59:46.714 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 153.8256ms
+2024-05-08 15:59:56.002 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 15:59:56.034 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 15:59:56.049 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 15:59:56.104 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 16:00:00.585 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 16:00:00.624 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 4482.3915ms
+2024-05-08 16:00:00.638 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 16:00:00.652 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 4605.1190 ms
+2024-05-08 16:00:00.664 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 4647.7663ms
+2024-05-08 16:00:23.148 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=299754 - null null
+2024-05-08 16:00:23.163 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 16:00:23.170 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 16:00:23.182 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 16:00:23.185 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 10.808ms
+2024-05-08 16:00:23.188 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 16:00:23.190 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 27.4385 ms
+2024-05-08 16:00:23.193 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=299754 - 400 null text/plain; charset=utf-8 45.782ms
+2024-05-08 16:09:25.598 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 16:09:25.673 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 16:09:25.676 +05:30 [INF] Hosting environment: Development
+2024-05-08 16:09:25.679 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 16:09:26.958 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 16:09:27.852 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 899.8614ms
+2024-05-08 16:09:27.873 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 16:09:27.886 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 12.6765ms
+2024-05-08 16:09:27.887 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 16:09:27.943 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 56.5642ms
+2024-05-08 16:09:28.026 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 16:09:28.155 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 129.3163ms
+2024-05-08 16:09:46.772 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 16:09:46.782 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 16:09:46.785 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 16:09:46.797 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 16:09:50.154 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 16:09:50.163 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3359.8759ms
+2024-05-08 16:09:50.164 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 16:09:50.165 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3385.5757 ms
+2024-05-08 16:09:50.167 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3394.4575ms
+2024-05-08 16:10:08.164 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&enteredOTP=477303 - null null
+2024-05-08 16:10:08.172 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 16:10:08.175 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 16:10:08.180 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 16:10:08.181 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 5.3422ms
+2024-05-08 16:10:08.182 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 16:10:08.183 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 10.3702 ms
+2024-05-08 16:10:08.184 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&enteredOTP=477303 - 400 null text/plain; charset=utf-8 19.5888ms
+2024-05-08 16:19:58.224 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 16:19:58.269 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 16:19:58.270 +05:30 [INF] Hosting environment: Development
+2024-05-08 16:19:58.272 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 16:19:59.014 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 16:19:59.467 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 458.2493ms
+2024-05-08 16:19:59.474 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 16:19:59.475 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 16:19:59.479 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.5083ms
+2024-05-08 16:19:59.513 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.4759ms
+2024-05-08 16:19:59.573 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 16:19:59.655 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 81.2132ms
+2024-05-08 16:20:14.057 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=smano4570%40gmail.com&userOTP=179934 - null null
+2024-05-08 16:20:14.067 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 16:20:14.070 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 16:20:14.085 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 16:20:14.243 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-05-08 16:20:14.247 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 157.6511ms
+2024-05-08 16:20:14.248 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 16:20:14.249 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 183.5040 ms
+2024-05-08 16:20:14.250 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=smano4570%40gmail.com&userOTP=179934 - 200 null text/plain; charset=utf-8 193.0283ms
+2024-05-08 16:20:41.151 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 16:20:41.185 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 16:20:41.186 +05:30 [INF] Hosting environment: Development
+2024-05-08 16:20:41.187 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 16:20:44.443 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 16:20:44.733 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 294.5501ms
+2024-05-08 16:20:44.738 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 16:20:44.738 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 16:20:44.745 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.6112ms
+2024-05-08 16:20:44.774 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.6677ms
+2024-05-08 16:20:44.835 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 16:20:44.941 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 105.8928ms
+2024-05-08 16:20:54.771 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=smano4570%40gmail.com&userOTP=179934 - null null
+2024-05-08 16:20:54.783 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 16:20:54.786 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 16:20:54.802 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 16:20:54.953 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Hashtable'.
+2024-05-08 16:20:54.961 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 154.3515ms
+2024-05-08 16:20:54.962 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 16:20:54.964 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 181.5398 ms
+2024-05-08 16:20:54.965 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=smano4570%40gmail.com&userOTP=179934 - 200 null application/json; charset=utf-8 193.9824ms
+2024-05-08 16:21:21.817 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 16:21:21.850 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 16:21:21.851 +05:30 [INF] Hosting environment: Development
+2024-05-08 16:21:21.852 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 16:21:22.783 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 16:21:23.332 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 553.7867ms
+2024-05-08 16:21:23.337 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 16:21:23.338 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 16:21:23.342 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.0953ms
+2024-05-08 16:21:23.372 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.1778ms
+2024-05-08 16:21:23.427 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 16:21:23.508 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 81.415ms
+2024-05-08 16:21:31.458 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 16:21:31.466 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 16:21:31.469 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 16:21:31.486 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 16:21:34.838 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Hashtable'.
+2024-05-08 16:21:34.848 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3358.2722ms
+2024-05-08 16:21:34.850 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 16:21:34.851 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3386.0818 ms
+2024-05-08 16:21:34.854 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3395.7563ms
+2024-05-08 16:25:18.465 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=119083 - null null
+2024-05-08 16:25:18.472 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 16:25:18.475 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 16:25:18.484 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Hashtable'.
+2024-05-08 16:25:18.485 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 8.3721ms
+2024-05-08 16:25:18.486 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 16:25:18.487 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 14.3008 ms
+2024-05-08 16:25:18.488 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=119083 - 200 null application/json; charset=utf-8 22.6575ms
+2024-05-08 17:04:40.844 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 17:04:40.994 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 17:04:40.996 +05:30 [INF] Hosting environment: Development
+2024-05-08 17:04:40.996 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 17:04:42.214 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 17:04:43.013 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 805.4652ms
+2024-05-08 17:04:43.021 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 17:04:43.023 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 17:04:43.029 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 7.9231ms
+2024-05-08 17:04:43.069 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.3627ms
+2024-05-08 17:04:43.144 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 17:04:43.263 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 118.8184ms
+2024-05-08 17:04:57.916 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 17:04:57.947 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 17:04:57.960 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:04:57.995 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:05:02.210 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Hashtable'.
+2024-05-08 17:05:02.227 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 4225.6461ms
+2024-05-08 17:05:02.231 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:05:02.234 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 4291.6215 ms
+2024-05-08 17:05:02.236 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 4320.4378ms
+2024-05-08 17:05:31.104 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=230355 - null null
+2024-05-08 17:05:31.142 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:05:31.156 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:05:31.182 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Hashtable'.
+2024-05-08 17:05:31.193 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 21.9868ms
+2024-05-08 17:05:31.203 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:05:31.210 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 68.6238 ms
+2024-05-08 17:05:31.215 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=230355 - 200 null application/json; charset=utf-8 111.8842ms
+2024-05-08 17:07:05.020 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 17:07:05.066 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 17:07:05.069 +05:30 [INF] Hosting environment: Development
+2024-05-08 17:07:05.071 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 17:07:09.178 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 17:07:10.150 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 978.5301ms
+2024-05-08 17:07:10.165 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 17:07:10.167 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 17:07:10.179 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 14.2511ms
+2024-05-08 17:07:10.242 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 75.032ms
+2024-05-08 17:07:10.345 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 17:07:10.468 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 123.2769ms
+2024-05-08 17:07:28.256 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 17:07:28.271 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 17:07:28.279 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:07:28.299 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:07:32.220 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Hashtable'.
+2024-05-08 17:07:32.236 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3930.1992ms
+2024-05-08 17:07:32.239 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:07:32.242 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3971.9136 ms
+2024-05-08 17:07:32.244 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3987.9422ms
+2024-05-08 17:07:53.658 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=352127 - null null
+2024-05-08 17:07:53.680 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:07:53.685 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:07:53.691 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Hashtable'.
+2024-05-08 17:07:53.693 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 5.7647ms
+2024-05-08 17:07:53.694 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:07:53.697 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 16.7136 ms
+2024-05-08 17:07:53.699 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=352127 - 200 null application/json; charset=utf-8 40.9754ms
+2024-05-08 17:20:21.464 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 17:20:21.497 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 17:20:21.499 +05:30 [INF] Hosting environment: Development
+2024-05-08 17:20:21.499 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 17:20:22.510 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 17:20:23.036 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 529.5017ms
+2024-05-08 17:20:23.041 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 17:20:23.041 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 17:20:23.051 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 9.4664ms
+2024-05-08 17:20:23.080 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.1703ms
+2024-05-08 17:20:23.149 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 17:20:23.239 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 89.458ms
+2024-05-08 17:21:34.353 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 17:21:34.360 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 17:21:34.362 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:21:34.378 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:21:38.164 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Hashtable'.
+2024-05-08 17:21:38.174 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3790.3098ms
+2024-05-08 17:21:38.175 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:21:38.177 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3818.1305 ms
+2024-05-08 17:21:38.179 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3826.2201ms
+2024-05-08 17:35:45.195 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 17:35:45.227 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 17:35:45.228 +05:30 [INF] Hosting environment: Development
+2024-05-08 17:35:45.228 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 17:35:49.149 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 17:35:49.660 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 515.7198ms
+2024-05-08 17:35:49.666 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 17:35:49.671 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 17:35:49.673 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 7.4262ms
+2024-05-08 17:35:49.707 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.784ms
+2024-05-08 17:35:49.763 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 17:35:49.847 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 83.8565ms
+2024-05-08 17:36:07.576 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 17:36:07.607 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 17:36:07.609 +05:30 [INF] Hosting environment: Development
+2024-05-08 17:36:07.610 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 17:36:08.708 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 17:36:09.028 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 326.3541ms
+2024-05-08 17:36:09.033 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 17:36:09.034 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 17:36:09.039 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.7308ms
+2024-05-08 17:36:09.068 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.0191ms
+2024-05-08 17:36:09.130 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 17:36:09.215 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 85.4839ms
+2024-05-08 17:36:30.339 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=jabarath02%40gmail.com - null 0
+2024-05-08 17:36:30.346 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 17:36:30.349 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:36:30.364 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:36:33.801 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 17:36:33.808 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3438.5281ms
+2024-05-08 17:36:33.809 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:36:33.811 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3465.6553 ms
+2024-05-08 17:36:33.812 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=jabarath02%40gmail.com - 200 null application/json; charset=utf-8 3473.3127ms
+2024-05-08 17:37:07.062 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=jabarath02%40gmail.com&userOTP=829857 - null null
+2024-05-08 17:37:07.075 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:37:07.078 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:37:07.082 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 17:37:07.083 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 3.8235ms
+2024-05-08 17:37:07.085 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:37:07.086 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 11.0641 ms
+2024-05-08 17:37:07.088 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=jabarath02%40gmail.com&userOTP=829857 - 200 null application/json; charset=utf-8 26.1385ms
+2024-05-08 17:38:00.528 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 17:38:00.559 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 17:38:00.560 +05:30 [INF] Hosting environment: Development
+2024-05-08 17:38:00.561 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 17:38:01.487 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 17:38:01.776 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 295.3184ms
+2024-05-08 17:38:01.781 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 17:38:01.781 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 17:38:01.786 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.2652ms
+2024-05-08 17:38:01.819 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.3281ms
+2024-05-08 17:38:01.875 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 17:38:01.961 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 86.2345ms
+2024-05-08 17:38:22.970 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 17:38:22.978 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 17:38:22.981 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:38:22.996 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:38:26.540 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 17:38:26.547 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3547.2341ms
+2024-05-08 17:38:26.547 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:38:26.550 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3572.6983 ms
+2024-05-08 17:38:26.552 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3581.8032ms
+2024-05-08 17:38:53.622 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=646817 - null null
+2024-05-08 17:38:53.636 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:38:53.638 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:38:53.643 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 17:38:53.644 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 5.3794ms
+2024-05-08 17:38:53.646 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:38:53.647 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 11.1031 ms
+2024-05-08 17:38:53.648 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=646817 - 400 null text/plain; charset=utf-8 25.8418ms
+2024-05-08 17:43:01.644 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 17:43:01.675 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 17:43:01.677 +05:30 [INF] Hosting environment: Development
+2024-05-08 17:43:01.677 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 17:43:02.827 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 17:43:03.377 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 555.4841ms
+2024-05-08 17:43:03.381 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 17:43:03.382 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 17:43:03.386 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.0849ms
+2024-05-08 17:43:03.419 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.2283ms
+2024-05-08 17:43:03.473 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 17:43:03.564 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 91.492ms
+2024-05-08 17:43:15.636 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 17:43:15.645 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 17:43:15.651 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:43:15.665 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:43:19.372 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 17:43:19.380 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3710.6741ms
+2024-05-08 17:43:19.381 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:43:19.382 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3738.3407 ms
+2024-05-08 17:43:19.384 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3747.8813ms
+2024-05-08 17:43:40.004 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=971005 - null null
+2024-05-08 17:43:40.014 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:43:40.017 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:43:58.109 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 18090.3816ms
+2024-05-08 17:43:58.111 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:43:58.113 +05:30 [ERR] HTTP GET /api/Registration/VerifyOTP responded 500 in 18098.6120 ms
+System.Collections.Generic.KeyNotFoundException: The given key 'rajkumar08102001@gmail.com' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at LXP.Api.Controllers.RegistrationController.VerifyOTP(String email, String userOTP) in C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api\Controllers\RegistrationController.cs:line 124
+   at lambda_method23(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-05-08 17:43:58.148 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Collections.Generic.KeyNotFoundException: The given key 'rajkumar08102001@gmail.com' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at LXP.Api.Controllers.RegistrationController.VerifyOTP(String email, String userOTP) in C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api\Controllers\RegistrationController.cs:line 124
+   at lambda_method23(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-08 17:43:58.156 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=971005 - 500 null text/plain; charset=utf-8 18151.8443ms
+2024-05-08 17:48:50.600 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 17:48:50.632 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 17:48:50.634 +05:30 [INF] Hosting environment: Development
+2024-05-08 17:48:50.636 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 17:48:54.108 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 17:48:54.636 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 532.8864ms
+2024-05-08 17:48:54.640 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 17:48:54.642 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 17:48:54.646 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.2883ms
+2024-05-08 17:48:54.682 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.1814ms
+2024-05-08 17:48:54.748 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 17:48:54.830 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 82.3465ms
+2024-05-08 17:49:03.560 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 17:49:03.568 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 17:49:03.571 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:49:03.589 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:49:07.628 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 17:49:07.635 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 4039.9246ms
+2024-05-08 17:49:07.636 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:49:07.638 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 4070.7662 ms
+2024-05-08 17:49:07.642 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 4081.5407ms
+2024-05-08 17:49:20.755 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=587070 - null null
+2024-05-08 17:49:20.761 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:49:20.766 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:49:20.773 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 17:49:20.774 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 4.5627ms
+2024-05-08 17:49:20.775 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:49:20.776 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 15.4370 ms
+2024-05-08 17:49:20.778 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=587070 - 400 null text/plain; charset=utf-8 22.9394ms
+2024-05-08 17:51:46.262 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 17:51:46.297 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 17:51:46.298 +05:30 [INF] Hosting environment: Development
+2024-05-08 17:51:46.299 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 17:51:49.815 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 17:51:50.294 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 483.241ms
+2024-05-08 17:51:50.300 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 17:51:50.300 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 17:51:50.305 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.8617ms
+2024-05-08 17:51:50.338 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.821ms
+2024-05-08 17:51:50.391 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 17:51:50.470 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 78.7206ms
+2024-05-08 17:52:01.040 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 17:52:01.050 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 17:52:01.053 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:52:01.070 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:52:04.418 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 17:52:04.426 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3351.3309ms
+2024-05-08 17:52:04.427 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:52:04.428 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3379.3959 ms
+2024-05-08 17:52:04.430 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3389.7526ms
+2024-05-08 17:52:22.764 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=031833 - null null
+2024-05-08 17:52:22.770 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:52:22.772 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:52:22.777 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 17:52:22.778 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 4.7697ms
+2024-05-08 17:52:22.780 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:52:22.781 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 10.9320 ms
+2024-05-08 17:52:22.782 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=031833 - 400 null text/plain; charset=utf-8 17.8766ms
+2024-05-08 17:53:14.874 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=031833 - null null
+2024-05-08 17:53:14.877 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:53:14.878 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:53:14.883 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 17:53:14.884 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 4.8011ms
+2024-05-08 17:53:14.885 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:53:14.886 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 8.9244 ms
+2024-05-08 17:53:14.887 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=031833 - 400 null text/plain; charset=utf-8 12.5927ms
+2024-05-08 17:56:24.708 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 17:56:24.741 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 17:56:24.742 +05:30 [INF] Hosting environment: Development
+2024-05-08 17:56:24.743 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 17:56:25.818 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 17:56:26.378 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 564.1326ms
+2024-05-08 17:56:26.383 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 17:56:26.383 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 17:56:26.389 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.4154ms
+2024-05-08 17:56:26.424 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.182ms
+2024-05-08 17:56:26.482 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 17:56:26.569 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 87.0738ms
+2024-05-08 17:56:42.931 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=031833 - null null
+2024-05-08 17:56:42.941 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 17:56:42.945 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:56:42.962 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:57:09.673 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 26706.4912ms
+2024-05-08 17:57:09.675 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:57:09.677 +05:30 [ERR] HTTP GET /api/Registration/VerifyOTP responded 500 in 26737.3880 ms
+System.Collections.Generic.KeyNotFoundException: The given key 'rajkumar08102001@gmail.com' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at LXP.Api.Controllers.RegistrationController.VerifyOTP(String email, String userOTP) in C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api\Controllers\RegistrationController.cs:line 164
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-05-08 17:57:09.707 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Collections.Generic.KeyNotFoundException: The given key 'rajkumar08102001@gmail.com' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at LXP.Api.Controllers.RegistrationController.VerifyOTP(String email, String userOTP) in C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api\Controllers\RegistrationController.cs:line 164
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-08 17:57:09.719 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=031833 - 500 null text/plain; charset=utf-8 26787.6955ms
+2024-05-08 17:58:19.934 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 17:58:19.968 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 17:58:19.969 +05:30 [INF] Hosting environment: Development
+2024-05-08 17:58:19.970 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 17:58:23.675 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 17:58:24.266 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 594.7927ms
+2024-05-08 17:58:24.273 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 17:58:24.274 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 17:58:24.286 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 13.1451ms
+2024-05-08 17:58:24.316 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.8967ms
+2024-05-08 17:58:24.369 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 17:58:24.462 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 93.5061ms
+2024-05-08 17:58:37.663 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 17:58:37.672 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 17:58:37.675 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:58:37.689 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:58:43.178 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 17:58:43.185 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 5489.5774ms
+2024-05-08 17:58:43.186 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:58:43.188 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 5517.7964 ms
+2024-05-08 17:58:43.189 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 5526.1598ms
+2024-05-08 17:59:02.921 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=976916 - null null
+2024-05-08 17:59:02.931 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:59:02.933 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:59:02.938 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-05-08 17:59:02.940 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 5.4446ms
+2024-05-08 17:59:02.941 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 17:59:02.941 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 10.7538 ms
+2024-05-08 17:59:02.942 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=976916 - 200 null text/plain; charset=utf-8 21.4345ms
+2024-05-08 17:59:37.592 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 17:59:37.626 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 17:59:37.628 +05:30 [INF] Hosting environment: Development
+2024-05-08 17:59:37.628 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 17:59:39.804 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 17:59:40.092 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 293.2732ms
+2024-05-08 17:59:40.098 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 17:59:40.099 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 17:59:40.103 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.3679ms
+2024-05-08 17:59:40.132 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.2241ms
+2024-05-08 17:59:40.185 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 17:59:40.278 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 93.658ms
+2024-05-08 17:59:48.246 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 17:59:48.256 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 17:59:48.259 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:59:48.273 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 17:59:51.708 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 17:59:51.716 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3440.0915ms
+2024-05-08 17:59:51.717 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 17:59:51.718 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3463.1910 ms
+2024-05-08 17:59:51.720 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3473.6237ms
+2024-05-08 18:00:09.112 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=684611 - null null
+2024-05-08 18:00:09.120 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 18:00:09.122 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 18:00:09.127 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-05-08 18:00:09.129 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 5.0857ms
+2024-05-08 18:00:09.130 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 18:00:09.131 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 11.0544 ms
+2024-05-08 18:00:09.132 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=684611 - 200 null text/plain; charset=utf-8 20.4764ms
+2024-05-08 18:01:27.870 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=684612 - null null
+2024-05-08 18:01:27.899 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 18:01:27.901 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 18:01:27.911 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 18:01:27.914 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 10.0759ms
+2024-05-08 18:01:27.916 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 18:01:27.918 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 18.5803 ms
+2024-05-08 18:01:27.920 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=684612 - 400 null text/plain; charset=utf-8 49.9782ms
+2024-05-08 18:01:36.107 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=684611 - null null
+2024-05-08 18:01:36.121 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 18:01:36.126 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 18:01:36.144 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-05-08 18:01:36.149 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 10.6883ms
+2024-05-08 18:01:36.151 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 18:01:36.153 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 31.5752 ms
+2024-05-08 18:01:36.155 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=684611 - 200 null text/plain; charset=utf-8 48.1674ms
+2024-05-08 20:39:33.445 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 20:39:33.501 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 20:39:33.502 +05:30 [INF] Hosting environment: Development
+2024-05-08 20:39:33.504 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 20:39:37.246 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 20:39:39.406 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 2167.0816ms
+2024-05-08 20:39:39.975 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 20:39:39.982 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 20:39:40.003 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 30.056ms
+2024-05-08 20:39:40.109 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 126.5931ms
+2024-05-08 20:39:40.190 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 20:39:40.414 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 224.3636ms
+2024-05-08 20:49:11.688 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 20:49:11.723 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 20:49:11.724 +05:30 [INF] Hosting environment: Development
+2024-05-08 20:49:11.725 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 20:49:13.165 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 20:49:14.037 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 876.43ms
+2024-05-08 20:49:14.047 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 20:49:14.048 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 20:49:14.065 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 16.3941ms
+2024-05-08 20:49:14.097 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 50.3728ms
+2024-05-08 20:49:14.168 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 20:49:14.259 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 91.8141ms
+2024-05-08 20:49:27.031 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 20:49:27.040 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 20:49:27.044 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 20:49:27.058 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 20:49:32.501 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 20:49:32.509 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 5445.7043ms
+2024-05-08 20:49:32.510 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 20:49:32.511 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 5473.2098 ms
+2024-05-08 20:49:32.513 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 5481.8774ms
+2024-05-08 20:49:52.017 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=684611 - null null
+2024-05-08 20:49:52.026 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 20:49:52.035 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 20:49:52.046 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 20:49:52.047 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 8.7972ms
+2024-05-08 20:49:52.049 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 20:49:52.052 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 26.6731 ms
+2024-05-08 20:49:52.054 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=684611 - 400 null text/plain; charset=utf-8 37.0886ms
+2024-05-08 20:49:59.341 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=683474 - null null
+2024-05-08 20:49:59.345 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 20:49:59.346 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 20:49:59.352 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 20:49:59.354 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 5.3047ms
+2024-05-08 20:49:59.355 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 20:49:59.355 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 10.2884 ms
+2024-05-08 20:49:59.356 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=683474 - 400 null text/plain; charset=utf-8 15.33ms
+2024-05-08 20:50:12.199 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=683474 - null null
+2024-05-08 20:50:12.206 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 20:50:12.207 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 20:50:12.210 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 20:50:12.211 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 2.5759ms
+2024-05-08 20:50:12.212 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 20:50:12.212 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 6.1743 ms
+2024-05-08 20:50:12.213 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=683474 - 400 null text/plain; charset=utf-8 14.7383ms
+2024-05-08 20:52:48.194 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 20:52:48.225 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 20:52:48.227 +05:30 [INF] Hosting environment: Development
+2024-05-08 20:52:48.227 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 20:52:51.740 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 20:52:52.350 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 615.545ms
+2024-05-08 20:52:52.355 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 20:52:52.359 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 20:52:52.362 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 7.2352ms
+2024-05-08 20:52:52.396 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.9362ms
+2024-05-08 20:52:52.458 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 20:52:52.563 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 104.2759ms
+2024-05-08 20:53:04.193 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 20:53:04.201 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 20:53:04.204 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 20:53:04.219 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 20:53:07.734 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 20:53:07.742 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3518.8891ms
+2024-05-08 20:53:07.743 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 20:53:07.746 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3545.4533 ms
+2024-05-08 20:53:07.748 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3554.642ms
+2024-05-08 20:53:24.248 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=846453 - null null
+2024-05-08 20:53:24.254 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 20:53:24.257 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 20:53:24.262 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 20:53:24.263 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 4.4925ms
+2024-05-08 20:53:24.265 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 20:53:24.266 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 12.2938 ms
+2024-05-08 20:53:24.267 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=846453 - 400 null text/plain; charset=utf-8 19.807ms
+2024-05-08 20:59:57.836 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 20:59:57.868 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 20:59:57.870 +05:30 [INF] Hosting environment: Development
+2024-05-08 20:59:57.871 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 21:00:01.854 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 21:00:02.572 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 727.4822ms
+2024-05-08 21:00:02.579 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 21:00:02.585 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.0388ms
+2024-05-08 21:00:02.588 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 21:00:02.623 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.1615ms
+2024-05-08 21:00:02.680 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 21:00:02.778 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 98.1249ms
+2024-05-08 21:14:42.854 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 21:14:42.887 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 21:14:42.890 +05:30 [INF] Hosting environment: Development
+2024-05-08 21:14:42.890 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 21:14:43.730 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 21:14:44.251 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 526.5797ms
+2024-05-08 21:14:44.257 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 21:14:44.257 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 21:14:44.262 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.0138ms
+2024-05-08 21:14:44.300 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 43.5713ms
+2024-05-08 21:14:44.352 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 21:14:44.430 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 78.351ms
+2024-05-08 21:14:59.498 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 21:14:59.506 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 21:14:59.509 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:14:59.527 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:15:03.809 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 21:15:03.818 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 4282.2211ms
+2024-05-08 21:15:03.819 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:15:03.821 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 4316.2343 ms
+2024-05-08 21:15:03.823 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 4324.7955ms
+2024-05-08 21:15:21.328 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=117183 - null null
+2024-05-08 21:15:21.334 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:15:21.336 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:15:21.341 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 21:15:21.342 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 4.2848ms
+2024-05-08 21:15:21.342 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:15:21.344 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 10.3465 ms
+2024-05-08 21:15:21.346 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=117183 - 400 null text/plain; charset=utf-8 17.5139ms
+2024-05-08 21:27:25.815 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 21:27:25.847 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 21:27:25.848 +05:30 [INF] Hosting environment: Development
+2024-05-08 21:27:25.849 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 21:27:26.738 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 21:27:27.274 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 538.742ms
+2024-05-08 21:27:27.280 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 21:27:27.283 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 21:27:27.287 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.7952ms
+2024-05-08 21:27:27.327 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 44.873ms
+2024-05-08 21:27:27.382 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 21:27:27.471 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 88.9781ms
+2024-05-08 21:27:40.535 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 21:27:40.543 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 21:27:40.546 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:27:40.561 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:27:44.328 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 21:27:44.336 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3771.9424ms
+2024-05-08 21:27:44.337 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:27:44.339 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3796.7437 ms
+2024-05-08 21:27:44.340 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3805.5063ms
+2024-05-08 21:27:59.411 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=735170 - null null
+2024-05-08 21:27:59.416 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:27:59.419 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:27:59.425 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 21:27:59.426 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 5.2536ms
+2024-05-08 21:27:59.427 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:27:59.428 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 11.7565 ms
+2024-05-08 21:27:59.429 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=735170 - 400 null text/plain; charset=utf-8 18.3681ms
+2024-05-08 21:31:36.759 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 21:31:36.792 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 21:31:36.794 +05:30 [INF] Hosting environment: Development
+2024-05-08 21:31:36.795 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 21:31:40.169 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 21:31:40.685 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 519.6017ms
+2024-05-08 21:31:40.691 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 21:31:40.691 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 21:31:40.698 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.9172ms
+2024-05-08 21:31:40.725 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.5037ms
+2024-05-08 21:31:40.786 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 21:31:40.873 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 86.4776ms
+2024-05-08 21:31:51.443 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 21:31:51.453 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 21:31:51.456 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:31:51.470 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:31:55.365 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 21:31:55.372 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3897.8831ms
+2024-05-08 21:31:55.374 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:31:55.376 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3924.1900 ms
+2024-05-08 21:31:55.378 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3934.8442ms
+2024-05-08 21:32:13.193 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=818219 - null null
+2024-05-08 21:32:13.198 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:32:13.200 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:32:13.205 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 21:32:13.206 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 4.3603ms
+2024-05-08 21:32:13.207 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:32:13.208 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 10.2787 ms
+2024-05-08 21:32:13.210 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=818219 - 400 null text/plain; charset=utf-8 17.1855ms
+2024-05-08 21:33:44.014 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 21:33:44.048 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 21:33:44.050 +05:30 [INF] Hosting environment: Development
+2024-05-08 21:33:44.051 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 21:33:47.406 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 21:33:47.746 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 346.9738ms
+2024-05-08 21:33:47.751 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 21:33:47.753 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 21:33:47.756 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.8544ms
+2024-05-08 21:33:47.788 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.2609ms
+2024-05-08 21:33:47.850 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 21:33:47.933 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 83.2383ms
+2024-05-08 21:34:00.690 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 21:34:00.701 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 21:34:00.705 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:34:00.723 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:34:04.239 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 21:34:04.249 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3521.2686ms
+2024-05-08 21:34:04.250 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:34:04.252 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3553.8588 ms
+2024-05-08 21:34:04.253 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3562.9799ms
+2024-05-08 21:34:21.421 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=274559 - null null
+2024-05-08 21:34:21.424 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:34:21.426 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:34:21.432 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-05-08 21:34:21.433 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 5.8147ms
+2024-05-08 21:34:21.435 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:34:21.436 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 11.5083 ms
+2024-05-08 21:34:21.437 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=274559 - 200 null text/plain; charset=utf-8 16.1152ms
+2024-05-08 21:35:23.259 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=274556 - null null
+2024-05-08 21:35:23.266 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:35:23.267 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:35:23.272 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 21:35:23.273 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 4.6576ms
+2024-05-08 21:35:23.274 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:35:23.275 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 8.6898 ms
+2024-05-08 21:35:23.277 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=274556 - 400 null text/plain; charset=utf-8 17.8195ms
+2024-05-08 21:36:12.059 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=274559 - null null
+2024-05-08 21:36:12.064 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:36:12.065 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:36:12.069 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 21:36:12.069 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 2.6914ms
+2024-05-08 21:36:12.073 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:36:12.075 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 10.4185 ms
+2024-05-08 21:36:12.076 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=274559 - 400 null text/plain; charset=utf-8 17.4134ms
+2024-05-08 21:36:21.072 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=274559 - null null
+2024-05-08 21:36:21.078 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:36:21.079 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:36:21.082 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 21:36:21.083 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 2.2666ms
+2024-05-08 21:36:21.084 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:36:21.085 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 7.5853 ms
+2024-05-08 21:36:21.086 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=274559 - 400 null text/plain; charset=utf-8 14.2653ms
+2024-05-08 21:52:06.675 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 21:52:06.707 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 21:52:06.709 +05:30 [INF] Hosting environment: Development
+2024-05-08 21:52:06.709 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 21:52:10.124 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 21:52:10.697 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 578.6451ms
+2024-05-08 21:52:10.702 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 21:52:10.703 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 21:52:10.709 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.2793ms
+2024-05-08 21:52:10.748 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 44.8562ms
+2024-05-08 21:52:10.798 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 21:52:10.878 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 79.9529ms
+2024-05-08 21:52:26.931 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 21:52:26.939 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 21:52:26.942 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:52:26.957 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:52:30.917 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 21:52:30.924 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3961.4179ms
+2024-05-08 21:52:30.924 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:52:30.926 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3988.0850 ms
+2024-05-08 21:52:30.928 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3997.0154ms
+2024-05-08 21:52:51.109 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=863695 - null null
+2024-05-08 21:52:51.118 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:52:51.120 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:52:51.125 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-05-08 21:52:51.127 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 5.236ms
+2024-05-08 21:52:51.128 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:52:51.129 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 10.4611 ms
+2024-05-08 21:52:51.130 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=863695 - 200 null text/plain; charset=utf-8 20.998ms
+2024-05-08 21:53:00.449 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=863695 - null null
+2024-05-08 21:53:00.453 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:53:00.454 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:53:00.459 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 21:53:00.460 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 4.981ms
+2024-05-08 21:53:00.461 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:53:00.462 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 9.3161 ms
+2024-05-08 21:53:00.463 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=863695 - 400 null text/plain; charset=utf-8 14.3728ms
+2024-05-08 21:56:57.336 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-08 21:56:57.369 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-08 21:56:57.370 +05:30 [INF] Hosting environment: Development
+2024-05-08 21:56:57.371 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Documents\FF1\LXP\LXP.Api
+2024-05-08 21:57:00.802 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 21:57:01.329 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 531.6824ms
+2024-05-08 21:57:01.334 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 21:57:01.334 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 21:57:01.339 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.9786ms
+2024-05-08 21:57:01.370 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.7194ms
+2024-05-08 21:57:01.428 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 21:57:01.510 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 82.3377ms
+2024-05-08 21:57:14.441 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 21:57:14.451 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-08 21:57:14.454 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:57:14.468 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:57:18.286 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 21:57:18.294 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3820.0135ms
+2024-05-08 21:57:18.295 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:57:18.297 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3846.9039 ms
+2024-05-08 21:57:18.299 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3858.0482ms
+2024-05-08 21:57:37.433 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=602262 - null null
+2024-05-08 21:57:37.438 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:57:37.442 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:57:37.447 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-05-08 21:57:37.448 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 5.0234ms
+2024-05-08 21:57:37.450 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:57:37.450 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 11.8728 ms
+2024-05-08 21:57:37.451 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=602262 - 200 null text/plain; charset=utf-8 18.4003ms
+2024-05-08 21:57:42.205 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=602262 - null null
+2024-05-08 21:57:42.210 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:57:42.211 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:57:42.219 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 21:57:42.221 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 6.9802ms
+2024-05-08 21:57:42.223 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 21:57:42.224 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 14.1412 ms
+2024-05-08 21:57:42.225 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=602262 - 400 null text/plain; charset=utf-8 19.6302ms
+2024-05-08 21:57:54.994 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-05-08 21:57:54.997 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:57:54.998 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 21:57:58.218 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 21:57:58.223 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3223.4704ms
+2024-05-08 21:57:58.225 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 21:57:58.226 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3229.3488 ms
+2024-05-08 21:57:58.228 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3234.371ms
+2024-05-08 22:00:06.790 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=637293 - null null
+2024-05-08 22:00:06.797 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 22:00:06.797 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 22:00:06.801 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-05-08 22:00:06.802 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 2.9623ms
+2024-05-08 22:00:06.806 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 22:00:06.807 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 400 in 10.1267 ms
+2024-05-08 22:00:06.808 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=637293 - 400 null text/plain; charset=utf-8 17.9591ms
+2024-05-08 22:02:12.871 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-08 22:02:12.887 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 16.4062ms
+2024-05-08 22:02:12.903 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-08 22:02:12.903 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-08 22:02:12.909 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.5909ms
+2024-05-08 22:02:12.916 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.9559ms
+2024-05-08 22:02:13.006 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-08 22:02:13.011 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 5.3594ms
+2024-05-08 22:02:40.623 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan28092001%40gmail.com - null 0
+2024-05-08 22:02:40.633 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 22:02:40.634 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 22:02:43.844 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-05-08 22:02:43.845 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3209.7776ms
+2024-05-08 22:02:43.847 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-05-08 22:02:43.848 +05:30 [INF] HTTP POST /api/Registration/EmailVerification responded 200 in 3214.5795 ms
+2024-05-08 22:02:43.849 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan28092001%40gmail.com - 200 null application/json; charset=utf-8 3226.5089ms
+2024-05-08 22:04:02.385 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=955408 - null null
+2024-05-08 22:04:02.392 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 22:04:02.393 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-08 22:04:02.396 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-05-08 22:04:02.397 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 2.4527ms
+2024-05-08 22:04:02.398 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-05-08 22:04:02.398 +05:30 [INF] HTTP GET /api/Registration/VerifyOTP responded 200 in 6.1842 ms
+2024-05-08 22:04:02.400 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan28092001%40gmail.com&userOTP=955408 - 200 null text/plain; charset=utf-8 14.9577ms
